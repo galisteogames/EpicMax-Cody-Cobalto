@@ -4,6 +4,10 @@ EpicMax-Cody_Cobalto theme for JelOS / RockNix
 
 Fork of epic-max-cody theme modified by Galisteo Games (2025)
 
+![IMG-20250519-WA0171](https://github.com/user-attachments/assets/e2697d77-9879-4100-910d-e0d2b1531b69)
+
+![IMG-20250519-WA0166](https://github.com/user-attachments/assets/dc5a868b-cab3-473f-a236-159163842d45)
+
 ### License
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/). \
@@ -23,6 +27,10 @@ REQUIREMENTS:
 * Clean interface
 * New systems and wallpapers
 * Support for screenshots/boxart and/or video.
+
+![IMG-20250519-WA0167](https://github.com/user-attachments/assets/81ff5007-758d-4126-9941-48ebdf8714c0)
+
+![IMG-20250519-WA0169](https://github.com/user-attachments/assets/4ffca1fd-33ba-4eff-9270-ef8679170ca6)
 
 ### Theme Notes
 
@@ -114,5 +122,9 @@ Vectrex \
 Wonderswan \
 Wonderswan Color \
 x-68000 
+
+![IMG-20250519-WA0168](https://github.com/user-attachments/assets/8d07e8a9-cc81-4285-ba17-ca2071a0de43)
+
+![IMG-20250519-WA0170](https://github.com/user-attachments/assets/5aa06f06-f36c-44c9-8f42-fb3cd8590587)
 
 ######
